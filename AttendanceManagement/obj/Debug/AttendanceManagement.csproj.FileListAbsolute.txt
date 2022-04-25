@@ -1,8 +1,0 @@
-C:\Users\Varsha Rane\source\repos\ConsoleApp1\AttendanceManagement\bin\Debug\AttendanceManagement.exe.config
-C:\Users\Varsha Rane\source\repos\ConsoleApp1\AttendanceManagement\bin\Debug\AttendanceManagement.exe
-C:\Users\Varsha Rane\source\repos\ConsoleApp1\AttendanceManagement\bin\Debug\AttendanceManagement.pdb
-C:\Users\Varsha Rane\source\repos\ConsoleApp1\AttendanceManagement\obj\Debug\AttendanceManagement.csproj.AssemblyReference.cache
-C:\Users\Varsha Rane\source\repos\ConsoleApp1\AttendanceManagement\obj\Debug\AttendanceManagement.csproj.SuggestedBindingRedirects.cache
-C:\Users\Varsha Rane\source\repos\ConsoleApp1\AttendanceManagement\obj\Debug\AttendanceManagement.csproj.CoreCompileInputs.cache
-C:\Users\Varsha Rane\source\repos\ConsoleApp1\AttendanceManagement\obj\Debug\AttendanceManagement.exe
-C:\Users\Varsha Rane\source\repos\ConsoleApp1\AttendanceManagement\obj\Debug\AttendanceManagement.pdb
